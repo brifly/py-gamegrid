@@ -94,8 +94,8 @@ var GameGridModel = widgets.DOMWidgetModel.extend({
         _view_name: 'GameGridView',
         _model_module: 'gamegrid',
         _vew_module: 'gamegrid',
-        _model_module_version: '0.2.0',
-        _view_module_version: '0.2.0'    
+        _model_module_version: '0.3.0',
+        _view_module_version: '0.3.0'    
     })
 });
     
